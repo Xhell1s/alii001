@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+.menyu-1{
+    display: flex;
+    justify-content: space-around;
+    font-size: 32px;
+    font-weight: 700;
+}
+.h1-1{
+    text-align: center;
+    font-size: 64px;
+    font-weight: 700;
+    padding-top: 135px;
+}
+.box-ota{
+    display: flex;
+    justify-content: space-evenly;
+}
+.box-bola{
+    width: 558px;
+    height: 452px;
+    background-color: red;
+    margin-top: 121px;
+    color: white;
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 187px;
+}
+.menyu-2{
+     display: flex;
+    justify-content: space-around;
+    font-size: 32px;
+    font-weight: 700;   
+    padding-top: 227px;
+}
